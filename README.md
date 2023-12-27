@@ -2,7 +2,7 @@
 
 ## Overview
 
-Phototron is a modern, asynchronous local filesystem caching library tailored for SwiftUI applications. It leverages the power of Swift's async/await paradigm and the robustness of thread-safe actors to provide a seamless and efficient caching experience. With a requirement of iOS 17.0 or greater, Phototron takes full advantage of the latest Observation framework to ensure your app's data management is both reactive and reliable.
+Phototron is a modern, asynchronous local filesystem caching library tailored for SwiftUI applications. It leverages the power of Swift's async/await paradigm and the robustness of thread-safe actors to provide a seamless and efficient caching experience. Phototron takes full advantage of the latest Observation framework to ensure your app's data management is both reactive and reliable. 
 
 ## Features
 
