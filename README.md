@@ -90,11 +90,3 @@ Remember to handle the permissions for accessing the network and local filesyste
 
 We welcome contributions! If you would like to help improve Phototron, please feel free to fork the repository, make your changes, and submit a pull request.
 
-## Contact
-
-(Provide information on how to reach out to the maintainers for support, questions, or discussions.)
-
-
----
-
-Remember to replace placeholders like `<insert Swift version>` with actual information when finalizing the README. This template provides a structured outline to help developers understand what Phototron is, how to get started with it, and where to find more information.
