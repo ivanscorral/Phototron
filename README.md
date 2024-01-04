@@ -8,7 +8,7 @@ Phototron is a modern, asynchronous local filesystem caching library tailored fo
 
 - **Asynchronous API**: Utilizes Swift's latest async/await features for non-blocking IO operations.
 - **Thread Safety**: Built with actors to ensure safe access to shared data across concurrent tasks.
-- **iOS 17 Observation**: Integrates with iOS 17's Observation framework for real-time updates and notifications.
+- **Observation Framework**: Integrates with iOS 17's Observation framework for real-time updates and notifications.
 - **Automatic Directory Management**: Phototron handles the creation and management of a dedicated `.phototron` directory in the filesystem.
 - **Metadata Tracking**: Maintains a `metadata.json` file within the cache directory to store and retrieve caching details efficiently.
 - **Fully integrated within SwiftUI**: Phototron does not have any external dependencies. Everything is implemented using Apple's standard libraries, SwiftUI and Observation.
